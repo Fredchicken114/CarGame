@@ -1,0 +1,17 @@
+=====================Version0.1=====================
+*Added Classic car
+*Added Freeroam1
+*Added Freeroam1 SoundTrack
+=====================Version0.2=====================
+*Added different Menus
+*Almost Finished 2 New Cars
+=====================Version0.3=====================
+*Added New UI For menus
+*Added Track 1
+*Added 2 new cars, Drift, And Formula 1
+=====================Version0.4=====================
+***0.4 Will come out During this summer
+*Will add Pause Menu
+*Will add SoundTrack for Track 1, 2, and 3
+*Will add Track 2, 3, And Maybe 4
+*Fix UI Scaling
